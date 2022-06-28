@@ -1,0 +1,13 @@
+apiVersion: v2
+name: react-book-app
+description: to create a helm chat for my mern-book application
+
+
+type: application
+
+version: 0.1.0
+appVersion: "1.16.0"
+
+maintainers:
+  - name: Paul Vollmer
+    url: https://paulvollmer.net/helm-playground
